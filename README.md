@@ -102,7 +102,7 @@
 | Prithvi Rana            | Section 003         | PrithviRana1         | <https://prithvirana1.github.io/>                       |
 | Cinah Pourhamidi        | Section 003         | Cinah465             | <https://cinah465.github.io/STAT184/>                   |
 | Osheen Arya             | Section 001         | osheenarya           | <https://osheenarya.github.io/Github_Practice184/>      |
-
+| Sarah Petro             | Section 001         | sayruhpetro          | <https://sayruhpetro.github.io/stat184/>                |
 
 # Integration of RStudio with Git
 
